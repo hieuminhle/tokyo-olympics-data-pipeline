@@ -14,6 +14,6 @@ https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
 2. Microsoft Azure
    - Azure Databricks
    - Azure Data Factory
-   - Azure Data Lake
+   - Azure Blob Storage
    - Azure Synapse Analytics
 3. Microsoft Power BI
